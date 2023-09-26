@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');.header {
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    &--title {
+        font-size: 48px;
+        font-weight: 900;
+    }
+    &--subtitle {
+        font-size: 14px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
